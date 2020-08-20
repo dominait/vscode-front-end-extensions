@@ -1,4 +1,4 @@
-# VSCode Code Extensions I Like Using When Writing CSS.
+# VSCode Code CSS  Extensions.
 
 I have a few favourite extensions that I like to use listed below. I reccomend that you install them and try them out for yourself. I have included the links to the extensions but it is easier just to open up the extension tab in VSCode and install them. Each extension comes with a Readme file that will explain how to use and configure the plugin.
 
