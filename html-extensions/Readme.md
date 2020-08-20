@@ -1,11 +1,8 @@
-# VSCode Extensions For HTML Workflow.
-I am including some of my favorite vscode extensions when developing JavaScript for the browser. I have split them up in terms of use. You don't need to install them all. Check them out if you don't like them then you can uninstall the extension.
+# VSCode HTML Extensions.
 
- 
-- [Prettier-Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [Liver Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-- [htmltagwrap](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap)
-- [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-- [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
+I find when I am marking up content or using html to build UI then the quicker I can get that done the more I can concentrate on other tasks. I have include a list of extensions that I find useful.
 
-- Live Share Extenstion
+- **LiveServer:** allows you to launch a local development server, there is also a version for PHP if your interested [extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+- **Prettier:** is a highly customizable opinionated code formatter. This extension needs some customization to get it to work the way you want if you don't like the defaults. I have a quick tutorial on setting up Prettier with VSCode you can find it
+  at [future link](https://github.com/dominait/vscode-workspaces/blob/master/javascript-extensions/Readme.md) or follow this tutorial [this tutorial](https//prettier.io) featured on medium blog site.
