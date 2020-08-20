@@ -1,4 +1,4 @@
-# VSCode Extensions For JavaScript Developers.
+# VSCode Code Extensions I Like Using When Writing CSS.
 I am including some of my favorite vscode extensions when developing JavaScript for the browser. I have split them up in terms of use. You don't need to install them all. Check them out if you don't like them then you can uninstall the extension.
 
  
