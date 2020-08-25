@@ -22,6 +22,9 @@ yarn-debug.log*
 yarn-error.log*
 node_modules
 
+#Mac OS System Files
+**/.DS_Store
+
 # VSCode local config files
-/.vscode
+**/.vscode
 
